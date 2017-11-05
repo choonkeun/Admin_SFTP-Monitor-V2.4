@@ -1,0 +1,25 @@
+2015-06-16 12:23:18 - dflistener@207.38.111.222 Connected
+2015-06-16 12:24:04 - dflistener@207.38.111.222 Connected
+2015-06-16 12:25:32 - dflistener@207.38.111.222 is not Connected - 1 times
+2015-06-16 12:26:33 - dflistener@207.38.111.222 is not Connected - 2 times
+2015-06-16 12:27:33 - dflistener@207.38.111.222 is not Connected - 3 times: First Mail Sent
+2015-06-16 12:28:34 - dflistener@207.38.111.222 is not Connected - 4 times: Mail Sent
+2015-06-16 12:29:35 - dflistener@207.38.111.222 is not Connected - 5 times
+2015-06-16 12:30:36 - dflistener@207.38.111.222 is not Connected - 6 times: Mail Sent
+2015-06-16 12:31:37 - dflistener@207.38.111.222 is not Connected - 7 times
+2015-06-16 12:32:38 - dflistener@207.38.111.222 is not Connected - 8 times: Mail Sent
+2015-06-16 12:33:38 - dflistener@207.38.111.222 is not Connected - 9 times
+2015-06-16 12:34:39 - dflistener@207.38.111.222 is not Connected - 10 times: Mail Sent failed
+2015-06-16 12:35:40 - dflistener@207.38.111.222 is not Connected - 11 times
+2015-06-16 12:36:41 - dflistener@207.38.111.222 is not Connected - 12 times: Mail Sent failed
+2015-06-16 12:37:42 - dflistener@207.38.111.222 is not Connected - 13 times
+2015-06-16 12:38:43 - dflistener@207.38.111.222 is not Connected - 14 times: Mail Sent failed
+2015-06-16 12:39:43 - dflistener@207.38.111.222 is not Connected - 15 times
+2015-06-16 12:40:44 - dflistener@207.38.111.222 is not Connected - 16 times: Mail Sent
+2015-06-16 12:41:45 - dflistener@207.38.111.222 is not Connected - 17 times
+2015-06-16 12:42:46 - dflistener@207.38.111.222 is not Connected - 18 times: Mail Sent
+2015-06-16 12:43:47 - dflistener@207.38.111.222 is not Connected - 19 times
+2015-06-16 12:44:26 - dflistener@207.38.111.222 Connected: Recovered Mail Sent
+2015-06-16 12:45:27 - dflistener@207.38.111.222 Connected
+2015-06-16 12:46:28 - dflistener@207.38.111.222 Connected
+2015-06-16 12:47:28 - dflistener@207.38.111.222 Connected
